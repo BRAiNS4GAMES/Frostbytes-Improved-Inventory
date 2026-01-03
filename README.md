@@ -8,79 +8,177 @@
 
 **Overview:**
 
-This mod adds new behaviors to Minecraft's inventory, HUD, and screens. All behaviors be toggled independently by editing the config file directly, through modmenu's config screen, or by disabling the related keybinds.
+This mod adds new behaviors to Minecraft's inventory, HUD, containers, and screens. All features can be toggled and customized using the config file or the modmenu config screen.
+
+**Inventory:**
 
 <details>
-  <summary>Slot Cycle: Allows the player to cycle the active hotbar slot with a different item in the same column using keybinds.</summary>
-  
-  ![Slot Cycle](https://github.com/FrostbyteGames1/Frostbytes-Improved-Inventory/assets/109047591/0cb13f9d-5e05-4afc-97a2-090d8774fc26)
+    <summary>
+        Hotbar Stack Refilling: Refills the hotbar with a new stack of the same item from the inventory.
+    </summary>
+    ![Preview]()
 </details>
 <details>
-  <summary>Durability Display: Displays the durability of equipped armor on the screen.</summary>
-  
-  ![Durability Display](https://github.com/FrostbyteGames1/Frostbytes-Improved-Inventory/assets/109047591/0a38dee6-2798-49b3-aecd-cfa36d3ae010)
+    <summary>
+        Automatic Tool Selection: Automatically swaps to the hotbar slot with the best tool when mining and the best weapon when attacking.
+    </summary>
+    ![Preview]()
 </details>
 <details>
-  <summary>Stack Refill: Repopulates stacks of items in the hotbar with matching ones from the inventory.</summary>
-  
-  ![Stack Refill](https://github.com/FrostbyteGames1/Frostbytes-Improved-Inventory/assets/109047591/1b2aa15c-792b-47f1-8e53-a8e482ce9d1f)
+    <summary>
+        Inventory Sorting: Sorts the current container.
+    </summary>
+    ![Preview]()
 </details>
 <details>
-  <summary>Tool Selection: Automatically switchs to the most effective tool for the targeted block or entity.</summary>
-  
-  ![Tool Select](https://github.com/FrostbyteGames1/Frostbytes-Improved-Inventory/assets/109047591/1115e9b3-2b4c-4d2e-8394-8b39f6db75e0)
+    <summary>
+        Inventory Search Bar: Adds a search bar to all container blocks.
+    </summary>
+    ![Preview]()
 </details>
 <details>
-  <summary>Inventory Sorting: Combines and sorts all item stacks inside of an open container.</summary>
+    <summary>
+        Tab to Nearby Containers: Allows the player to access all containers within reach using either a keybind or the tab created in the inventory screen.
+    </summary>
+    ![Preview]()
+</details>
 
-  ![Inventory Sorting](https://github.com/FrostbyteGames1/Frostbytes-Improved-Inventory/assets/109047591/e844a40d-00a5-41c8-904f-1b2ae38eaa24)
-</details>
-<details>
-  <summary>Zoom: Temporarily drops the FOV in order to zoom in on the center of the screen.</summary>
-  
-![Zoom](https://github.com/FrostbyteGames1/Frostbytes-Improved-Inventory/assets/109047591/f34f95c7-33f9-4d4f-a4b2-67d0fd42920e)
-</details>
-<details>
-  <summary>Paperdoll: Renders the player model on the screen (like in Bedrock Edition).</summary>
-  
-  ![Paperdoll](https://github.com/FrostbyteGames1/Frostbytes-Improved-Inventory/assets/109047591/318564fd-001f-48cd-9f66-e80572017cb7)
-</details>
-<details>
-  <summary>Gamma: Allows the brightness to be set higher than 100%.</summary>
+**HUD:**
 
-  ![Gamma](https://github.com/FrostbyteGames1/Frostbytes-Improved-Inventory/assets/109047591/9326c966-53e0-4e78-96d2-49ad303211d9)
+<details>
+    <summary>
+        Armor Durability Display: Displays the currently equipped armor items on the screen.
+    </summary>
+    ![Armor Durability Display](https://github.com/user-attachments/assets/7d35d2dd-06bc-471b-96f4-b8f3a7709544)
 </details>
 <details>
-  <summary>Items Visible in Boats: Stops held items from being hidden when rowing a boat.</summary>
+    <summary>
+        Slot Cycling: Cycles to another item in the same column of the inventory as the selected hotbar slot.
+    </summary>
+    ![Preview]()
+</details>
+<details>
+    <summary>
+        Bedrock Paperdoll: Displays the player model on the screen like in Bedrock Edition.
+    </summary>
+    ![Preview]()
+</details>
+<details>
+    <summary>
+        Text Display: Displays a list of informational text strings.
+    </summary>
+    ![Preview]()
+</details>
+<details>
+    <summary>
+        WAILA (What Am I Looking At?): Displays the targeted block or entity.
+    </summary>
+    ![Preview]()
+</details>
+<details>
+    <summary>
+        Held Items Visible In Boats: Stops held items being hidden while rowing a boat.
+    </summary>
+    ![Preview]()
+</details>
+<details>
+    <summary>
+        Colored Armor Bar: Colors the armor bar icons to match the materials of the equipped armor.
+    </summary>
+    ![Preview]()
+</details>
+<details>
+    <summary>
+        Status Effect Timer: Adds bars to the status effect overlay that show the remaining durations of active effects.
+    </summary>
+    ![Preview]()
+</details>
+<details>
+    <summary>
+        Don't Hide Experience Bar: Renders the locator bar on top of the experience bar, instead of replacing it.
+    </summary>
+    ![Preview]()
+</details>
+<details>
+    <summary>
+        Player's Waypoints Use Their Skins: Waypoints that point to a player use that player's head as the sprite.
+    </summary>
+    ![Preview]()
+</details>
 
-  ![Items Visible in Boats](https://github.com/FrostbyteGames1/Frostbytes-Improved-Inventory/assets/109047591/a8e3a7a4-2f0d-4599-ab99-77ef0060a9f8)
-</details>
-<details>
-  <summary>Armor Bar Colors: Colors the armor bar to match the currently equipped armor.</summary>
+**Tooltips:**
 
-  ![Armor Bar Colors](https://github.com/FrostbyteGames1/Frostbytes-Improved-Inventory/assets/109047591/eabb2601-3ce9-443e-9013-e0331520ef7a)
+<details>
+    <summary>
+        Compass Target Tooltip: Adds a compass's target position to its tooltip.
+    </summary>
+    ![Preview]()
 </details>
 <details>
-  <summary>Container Tabs: Allows tabbing to any block inventory within reach when an inventory screen is open.</summary>
+    <summary>
+        Clock Daytime Tooltip: Adds the time of day to the clock's tooltip.
+    </summary>
+    ![Preview]()
+</details>
+<details>
+    <summary>
+       Food Nutrition Tooltip: Adds the nutrition and saturation of a food item to its tooltip.
+    </summary>
+    ![Preview]()
+</details>
+<details>
+    <summary>
+       Shulker Box Preview: Displays a shulker box's inventory in its tooltip.
+    </summary>
+    ![Preview]()
+</details>
+<details>
+    <summary>
+       Map Preview: Displays a map's contents in its tooltip.
+    </summary>
+    ![Preview]()
+</details>
+<details>
+    <summary>
+       Expanded Bundle Tooltip: Displays the entire contents of a bundle in its tooltip.
+    </summary>
+    ![Preview]()
+</details>
+<details>
+    <summary>
+       Bundle Progress Bar Fraction: Displays a bundle's fullness as a fraction of 64 on top of its progress bar.
+    </summary>
+    ![Preview]()
+</details>
 
-  ![Container Tabs](https://github.com/FrostbyteGames1/Frostbytes-Improved-Inventory/assets/109047591/d8b49853-59d8-43b3-b373-c499eaf21773)
+**Screen Effects:**
+
+<details>
+    <summary>
+       Zoom: Drops the field of view to zoom into the center of the screen.
+    </summary>
+    ![Preview]()
 </details>
 <details>
-  <summary>Map Preview Tooltip: Renders a preview of the currently hovered map.</summary>
-  
-  ![Map Preview Tooltip](https://github.com/FrostbyteGames1/Frostbytes-Improved-Inventory/assets/109047591/527947f8-66b9-407b-86fe-01c20450ac46)
-</details>
-<details>
-  <summary>Shulker Box Preview Tooltip: Renders a preview of the currently hovered shulker box.</summary>
-  
-  ![Shulker Box Preview Tooltip](https://github.com/FrostbyteGames1/Frostbytes-Improved-Inventory/assets/109047591/a646f2be-9b2c-4a38-8b1b-e36e308272c5)
+    <summary>
+       Gamma: Increases the brightness past the maximum value.
+    </summary>
+    ![Preview]()
 </details>
 
 **FAQs:**
 
-- *Will this be updated to 1.x.x?* - Yes! I plan on updating this mod for as long as I can. Expect to wait a few weeks after major Minecraft updates for an updated version of this mod. There may be longer pauses between minor versions depending on how busy I am.
-- *Will you make a Forge version?* - No. I don't make Forge mods, but feel free to make your own (unofficial) port as long as you credit me for any code borrowed from this mod.
-- *Can I use this in my mod pack?* - Yes! I made this mod for people to use!
+*Will this be updated to [Insert Version]?*
+    
+I plan on updating this mod for as long as I can. Expect to wait a few weeks after major Minecraft updates for an updated version of this mod. There may be longer pauses between minor versions depending on how busy I am.
+
+*Will you make a Forge version?*
+
+I don't make Forge mods, but feel free to make your own unofficial port as long as you credit my code and/or assets.
+
+*Can I use this in my mod pack?*
+
+Yes! I made this mod for people to use!
 
 **Download:**
 
