@@ -16,19 +16,19 @@ This mod adds new behaviors to Minecraft's inventory, HUD, containers, and scree
     <summary>
         Hotbar Stack Refilling: Refills the hotbar with a new stack of the same item from the inventory.
     </summary>
-    ![Hotbar Stack Refilling](https://github.com/user-attachments/assets/592af59a-46c7-4c24-87ba-71f9c4f2c050)
+    <img alt="Hotbar Stack Refilling" src="https://github.com/user-attachments/assets/592af59a-46c7-4c24-87ba-71f9c4f2c050" />
 </details>
 <details>
     <summary>
         Automatic Tool Selection: Automatically swaps to the hotbar slot with the best tool when mining and the best weapon when attacking.
     </summary>
-    ![Automatic Tool Selection](https://github.com/user-attachments/assets/3dd09013-c5ac-4e40-a5bf-78b734ad79ee)
+    <img alt="Automatic Tool Selection" src="https://github.com/user-attachments/assets/3dd09013-c5ac-4e40-a5bf-78b734ad79ee" />
 </details>
 <details>
     <summary>
         Inventory Sorting: Sorts the current container.
     </summary>
-    ![Inventory Sorting](https://github.com/user-attachments/assets/a803dc25-a08a-466a-858a-ea69b1d21640)
+    <img alt="Inventory Sorting" src="https://github.com/user-attachments/assets/a803dc25-a08a-466a-858a-ea69b1d21640" />
 </details>
 <details>
     <summary>
