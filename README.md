@@ -16,31 +16,31 @@ This mod adds new behaviors to Minecraft's inventory, HUD, containers, and scree
     <summary>
         Hotbar Stack Refilling: Refills the hotbar with a new stack of the same item from the inventory.
     </summary>
-    ![Preview]()
+    ![Hotbar Stack Refilling](https://github.com/user-attachments/assets/592af59a-46c7-4c24-87ba-71f9c4f2c050)
 </details>
 <details>
     <summary>
         Automatic Tool Selection: Automatically swaps to the hotbar slot with the best tool when mining and the best weapon when attacking.
     </summary>
-    ![Preview]()
+    ![Automatic Tool Selection](https://github.com/user-attachments/assets/3dd09013-c5ac-4e40-a5bf-78b734ad79ee)
 </details>
 <details>
     <summary>
         Inventory Sorting: Sorts the current container.
     </summary>
-    ![Preview]()
+    ![Inventory Sorting](https://github.com/user-attachments/assets/a803dc25-a08a-466a-858a-ea69b1d21640)
 </details>
 <details>
     <summary>
         Inventory Search Bar: Adds a search bar to all container blocks.
     </summary>
-    ![Preview]()
+    ![Inventory Search Bar](https://github.com/user-attachments/assets/9886f6e6-15e5-4ab9-8bac-535d537b8b14)
 </details>
 <details>
     <summary>
         Tab to Nearby Containers: Allows the player to access all containers within reach using either a keybind or the tab created in the inventory screen.
     </summary>
-    ![Preview]()
+    ![Tab to Nearby Containers](https://github.com/user-attachments/assets/378d7641-a7b3-4ad5-8e81-4005e3e26cd8)
 </details>
 
 **HUD:**
@@ -49,61 +49,61 @@ This mod adds new behaviors to Minecraft's inventory, HUD, containers, and scree
     <summary>
         Armor Durability Display: Displays the currently equipped armor items on the screen.
     </summary>
-    ![Preview]()
+    ![Armor Durability Display](https://github.com/user-attachments/assets/4d755186-3209-41d8-a852-9caf20cba76b)
 </details>
 <details>
     <summary>
         Slot Cycling: Cycles to another item in the same column of the inventory as the selected hotbar slot.
     </summary>
-    ![Preview]()
+    ![Slot Cycling](https://github.com/user-attachments/assets/0be179a8-9a54-49b9-94f2-4fa90e5fb109)
 </details>
 <details>
     <summary>
         Bedrock Paperdoll: Displays the player model on the screen like in Bedrock Edition.
     </summary>
-    ![Preview]()
+    
 </details>
 <details>
     <summary>
         Text Display: Displays a list of informational text strings.
     </summary>
-    ![Preview]()
+    
 </details>
 <details>
     <summary>
         WAILA (What Am I Looking At?): Displays the targeted block or entity.
     </summary>
-    ![Preview]()
+
 </details>
 <details>
     <summary>
         Held Items Visible In Boats: Stops held items being hidden while rowing a boat.
     </summary>
-    ![Preview]()
+    ![Held Items Visible In Boats](https://github.com/user-attachments/assets/686e9395-ed47-436a-8bc1-93d167b8406b)
 </details>
 <details>
     <summary>
         Colored Armor Bar: Colors the armor bar icons to match the materials of the equipped armor.
     </summary>
-    ![Preview]()
+    ![Colored Armor Bar](https://github.com/user-attachments/assets/d1acb396-039d-4ed6-8723-3f10826280a8)
 </details>
 <details>
     <summary>
         Status Effect Timer: Adds bars to the status effect overlay that show the remaining durations of active effects.
     </summary>
-    ![Preview]()
+
 </details>
 <details>
     <summary>
         Don't Hide Experience Bar: Renders the locator bar on top of the experience bar, instead of replacing it.
     </summary>
-    ![Preview]()
+
 </details>
 <details>
     <summary>
         Player's Waypoints Use Their Skins: Waypoints that point to a player use that player's head as the sprite.
     </summary>
-    ![Preview]()
+
 </details>
 
 **Tooltips:**
@@ -112,43 +112,43 @@ This mod adds new behaviors to Minecraft's inventory, HUD, containers, and scree
     <summary>
         Compass Target Tooltip: Adds a compass's target position to its tooltip.
     </summary>
-    ![Preview]()
+    <img width="1920" height="1032" alt="Compass Target Tooltip" src="https://github.com/user-attachments/assets/655cf467-18be-439a-b2fe-935bf8056185" />
 </details>
 <details>
     <summary>
         Clock Daytime Tooltip: Adds the time of day to the clock's tooltip.
     </summary>
-    ![Preview]()
+    <img width="1920" height="1032" alt="Clock Daytime Tooltip" src="https://github.com/user-attachments/assets/c196d459-0fcb-441d-acc8-f04de547e285" />
 </details>
 <details>
     <summary>
        Food Nutrition Tooltip: Adds the nutrition and saturation of a food item to its tooltip.
     </summary>
-    ![Preview]()
+    <img width="1920" height="1032" alt="Food Nutrition Tooltip" src="https://github.com/user-attachments/assets/9e30d758-d6c5-46ca-ba78-02d5138552b3" />
 </details>
 <details>
     <summary>
        Shulker Box Preview: Displays a shulker box's inventory in its tooltip.
     </summary>
-    ![Preview]()
+    <img width="1920" height="1032" alt="Shulker Box Preview" src="https://github.com/user-attachments/assets/9295f0ed-0268-4343-a702-74a538e027e4" />
 </details>
 <details>
     <summary>
        Map Preview: Displays a map's contents in its tooltip.
     </summary>
-    ![Preview]()
+    <img width="1920" height="1032" alt="Map Preview" src="https://github.com/user-attachments/assets/8b9f5082-cdde-4050-ad03-e93c35c226e3" />
 </details>
 <details>
     <summary>
        Expanded Bundle Tooltip: Displays the entire contents of a bundle in its tooltip.
     </summary>
-    ![Preview]()
+    <img width="1920" height="1032" alt="Expanded Bundle Tooltip" src="https://github.com/user-attachments/assets/34555a7c-7b50-4516-af75-8f4cf75937fc" />
 </details>
 <details>
     <summary>
        Bundle Progress Bar Fraction: Displays a bundle's fullness as a fraction of 64 on top of its progress bar.
     </summary>
-    ![Preview]()
+    <img width="1920" height="1032" alt="Bundle Progress Bar Fraction" src="https://github.com/user-attachments/assets/8c079148-8e14-41e7-b797-872634678cfb" />
 </details>
 
 **Screen Effects:**
@@ -157,13 +157,13 @@ This mod adds new behaviors to Minecraft's inventory, HUD, containers, and scree
     <summary>
        Zoom: Drops the field of view to zoom into the center of the screen.
     </summary>
-    ![Preview]()
+    ![Zoom](https://github.com/user-attachments/assets/e82116f6-e257-4757-8aa4-e5590f444fdb)
 </details>
 <details>
     <summary>
        Gamma: Increases the brightness past the maximum value.
     </summary>
-    ![Preview]()
+    ![Gamma](https://github.com/user-attachments/assets/071c2e8a-f00c-4f9d-8dd8-7a6ea808c8db)
 </details>
 
 **FAQs:**
