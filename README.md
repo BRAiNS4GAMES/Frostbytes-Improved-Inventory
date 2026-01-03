@@ -61,49 +61,49 @@ This mod adds new behaviors to Minecraft's inventory, HUD, containers, and scree
     <summary>
         Bedrock Paperdoll: Displays the player model on the screen like in Bedrock Edition.
     </summary>
-    
+    <img alt="Bedrock Paperdoll" src="" />
 </details>
 <details>
     <summary>
         Text Display: Displays a list of informational text strings.
     </summary>
-    
+    <img alt="Text Display" src="" />
 </details>
 <details>
     <summary>
         WAILA (What Am I Looking At?): Displays the targeted block or entity.
     </summary>
-
+    <img alt="WAILA (What Am I Looking At?)" src="" />
 </details>
 <details>
     <summary>
         Held Items Visible In Boats: Stops held items being hidden while rowing a boat.
     </summary>
-    ![Held Items Visible In Boats](https://github.com/user-attachments/assets/686e9395-ed47-436a-8bc1-93d167b8406b)
+    <img alt="WHeld Items Visible In Boats" src="https://github.com/user-attachments/assets/686e9395-ed47-436a-8bc1-93d167b8406b" />
 </details>
 <details>
     <summary>
         Colored Armor Bar: Colors the armor bar icons to match the materials of the equipped armor.
     </summary>
-    ![Colored Armor Bar](https://github.com/user-attachments/assets/d1acb396-039d-4ed6-8723-3f10826280a8)
+    <img alt="Colored Armor Bar" src="https://github.com/user-attachments/assets/d1acb396-039d-4ed6-8723-3f10826280a8" />
 </details>
 <details>
     <summary>
         Status Effect Timer: Adds bars to the status effect overlay that show the remaining durations of active effects.
     </summary>
-
+    <img alt="Status Effect Timer" src="" />
 </details>
 <details>
     <summary>
         Don't Hide Experience Bar: Renders the locator bar on top of the experience bar, instead of replacing it.
     </summary>
-
+    <img alt="Don't Hide Experience Bar" src="" />
 </details>
 <details>
     <summary>
-        Player's Waypoints Use Their Skins: Waypoints that point to a player use that player's head as the sprite.
+        Players' Waypoints Use Their Skins: Waypoints that point to a player use that player's head as the sprite.
     </summary>
-
+    <img alt="Players' Waypoints Use Their Skins" src="" />
 </details>
 
 **Tooltips:**
