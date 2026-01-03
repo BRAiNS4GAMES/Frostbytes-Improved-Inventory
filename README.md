@@ -34,13 +34,13 @@ This mod adds new behaviors to Minecraft's inventory, HUD, containers, and scree
     <summary>
         Inventory Search Bar: Adds a search bar to all container blocks.
     </summary>
-    ![Inventory Search Bar](https://github.com/user-attachments/assets/9886f6e6-15e5-4ab9-8bac-535d537b8b14)
+    <img alt="Inventory Search Bar" src="https://github.com/user-attachments/assets/9886f6e6-15e5-4ab9-8bac-535d537b8b14" />
 </details>
 <details>
     <summary>
         Tab to Nearby Containers: Allows the player to access all containers within reach using either a keybind or the tab created in the inventory screen.
     </summary>
-    ![Tab to Nearby Containers](https://github.com/user-attachments/assets/378d7641-a7b3-4ad5-8e81-4005e3e26cd8)
+    <img alt="Tab to Nearby Containers" src="https://github.com/user-attachments/assets/378d7641-a7b3-4ad5-8e81-4005e3e26cd8" />
 </details>
 
 **HUD:**
@@ -49,13 +49,13 @@ This mod adds new behaviors to Minecraft's inventory, HUD, containers, and scree
     <summary>
         Armor Durability Display: Displays the currently equipped armor items on the screen.
     </summary>
-    ![Armor Durability Display](https://github.com/user-attachments/assets/4d755186-3209-41d8-a852-9caf20cba76b)
+    <img alt="Armor Durability Display" src="https://github.com/user-attachments/assets/4d755186-3209-41d8-a852-9caf20cba76b" />
 </details>
 <details>
     <summary>
         Slot Cycling: Cycles to another item in the same column of the inventory as the selected hotbar slot.
     </summary>
-    ![Slot Cycling](https://github.com/user-attachments/assets/0be179a8-9a54-49b9-94f2-4fa90e5fb109)
+    <img alt="Slot Cycling" src="https://github.com/user-attachments/assets/0be179a8-9a54-49b9-94f2-4fa90e5fb109" />
 </details>
 <details>
     <summary>
