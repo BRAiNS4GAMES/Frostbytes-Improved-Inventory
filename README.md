@@ -49,7 +49,7 @@ This mod adds new behaviors to Minecraft's inventory, HUD, containers, and scree
     <summary>
         Armor Durability Display: Displays the currently equipped armor items on the screen.
     </summary>
-    ![Armor Durability Display](https://github.com/user-attachments/assets/7d35d2dd-06bc-471b-96f4-b8f3a7709544)
+    ![Preview]()
 </details>
 <details>
     <summary>
