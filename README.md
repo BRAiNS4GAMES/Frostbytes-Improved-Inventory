@@ -61,19 +61,19 @@ This mod adds new behaviors to Minecraft's inventory, HUD, containers, and scree
     <summary>
         Bedrock Paperdoll: Displays the player model on the screen like in Bedrock Edition.
     </summary>
-    <img alt="Bedrock Paperdoll" src="" />
+    <img alt="Bedrock Paperdoll" src="https://placehold.co/600x400" />
 </details>
 <details>
     <summary>
         Text Display: Displays a list of informational text strings.
     </summary>
-    <img alt="Text Display" src="" />
+    <img alt="Text Display" src="https://placehold.co/600x400" />
 </details>
 <details>
     <summary>
         WAILA (What Am I Looking At?): Displays the targeted block or entity.
     </summary>
-    <img alt="WAILA (What Am I Looking At?)" src="" />
+    <img alt="WAILA (What Am I Looking At?)" src="https://placehold.co/600x400" />
 </details>
 <details>
     <summary>
@@ -91,19 +91,19 @@ This mod adds new behaviors to Minecraft's inventory, HUD, containers, and scree
     <summary>
         Status Effect Timer: Adds bars to the status effect overlay that show the remaining durations of active effects.
     </summary>
-    <img alt="Status Effect Timer" src="" />
+    <img alt="Status Effect Timer" src="https://placehold.co/600x400" />
 </details>
 <details>
     <summary>
         Don't Hide Experience Bar: Renders the locator bar on top of the experience bar, instead of replacing it.
     </summary>
-    <img alt="Don't Hide Experience Bar" src="" />
+    <img alt="Don't Hide Experience Bar" src="https://placehold.co/600x400" />
 </details>
 <details>
     <summary>
         Players' Waypoints Use Their Skins: Waypoints that point to a player use that player's head as the sprite.
     </summary>
-    <img alt="Players' Waypoints Use Their Skins" src="" />
+    <img alt="Players' Waypoints Use Their Skins" src="https://placehold.co/600x400" />
 </details>
 
 **Tooltips:**
