@@ -97,7 +97,7 @@ This mod adds new behaviors to Minecraft's inventory, HUD, containers, and scree
     <summary>
         Don't Hide Experience Bar: Renders the locator bar on top of the experience bar, instead of replacing it.
     </summary>
-    <img alt="Don't Hide Experience Bar" src="https://placehold.co/600x400" />
+    <img alt="Don't Hide Experience Bar" src="https://github.com/user-attachments/assets/1ae1e4c7-6ea4-45c8-955a-80972a1cb87b" />
 </details>
 <details>
     <summary>
