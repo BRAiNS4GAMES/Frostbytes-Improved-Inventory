@@ -91,7 +91,7 @@ This mod adds new behaviors to Minecraft's inventory, HUD, containers, and scree
     <summary>
         Status Effect Timer: Adds bars to the status effect overlay that show the remaining durations of active effects.
     </summary>
-    <img alt="Status Effect Timer" src="https://placehold.co/600x400" />
+    <img alt="Status Effect Timer" src="https://github.com/user-attachments/assets/e330b035-f721-46a1-a073-5038235d4ecf" />
 </details>
 <details>
     <summary>
