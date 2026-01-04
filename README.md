@@ -73,7 +73,7 @@ This mod adds new behaviors to Minecraft's inventory, HUD, containers, and scree
     <summary>
         WAILA (What Am I Looking At?): Displays the targeted block or entity.
     </summary>
-    <img alt="WAILA (What Am I Looking At?)" src="https://placehold.co/600x400" />
+    <img alt="WAILA (What Am I Looking At?)" src="https://github.com/user-attachments/assets/f34a64cf-0731-4bfa-9b1c-793c45f0c055" />
 </details>
 <details>
     <summary>
