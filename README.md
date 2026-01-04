@@ -79,7 +79,7 @@ This mod adds new behaviors to Minecraft's inventory, HUD, containers, and scree
     <summary>
         Held Items Visible In Boats: Stops held items being hidden while rowing a boat.
     </summary>
-    <img alt="WHeld Items Visible In Boats" src="https://github.com/user-attachments/assets/686e9395-ed47-436a-8bc1-93d167b8406b" />
+    <img alt="Held Items Visible In Boats" src="https://github.com/user-attachments/assets/686e9395-ed47-436a-8bc1-93d167b8406b" />
 </details>
 <details>
     <summary>
@@ -112,43 +112,43 @@ This mod adds new behaviors to Minecraft's inventory, HUD, containers, and scree
     <summary>
         Compass Target Tooltip: Adds a compass's target position to its tooltip.
     </summary>
-    <img width="1920" height="1032" alt="Compass Target Tooltip" src="https://github.com/user-attachments/assets/655cf467-18be-439a-b2fe-935bf8056185" />
+    <img alt="Compass Target Tooltip" src="https://github.com/user-attachments/assets/655cf467-18be-439a-b2fe-935bf8056185" />
 </details>
 <details>
     <summary>
         Clock Daytime Tooltip: Adds the time of day to the clock's tooltip.
     </summary>
-    <img width="1920" height="1032" alt="Clock Daytime Tooltip" src="https://github.com/user-attachments/assets/c196d459-0fcb-441d-acc8-f04de547e285" />
+    <img alt="Clock Daytime Tooltip" src="https://github.com/user-attachments/assets/c196d459-0fcb-441d-acc8-f04de547e285" />
 </details>
 <details>
     <summary>
        Food Nutrition Tooltip: Adds the nutrition and saturation of a food item to its tooltip.
     </summary>
-    <img width="1920" height="1032" alt="Food Nutrition Tooltip" src="https://github.com/user-attachments/assets/9e30d758-d6c5-46ca-ba78-02d5138552b3" />
+    <img alt="Food Nutrition Tooltip" src="https://github.com/user-attachments/assets/9e30d758-d6c5-46ca-ba78-02d5138552b3" />
 </details>
 <details>
     <summary>
        Shulker Box Preview: Displays a shulker box's inventory in its tooltip.
     </summary>
-    <img width="1920" height="1032" alt="Shulker Box Preview" src="https://github.com/user-attachments/assets/9295f0ed-0268-4343-a702-74a538e027e4" />
+    <img alt="Shulker Box Preview" src="https://github.com/user-attachments/assets/9295f0ed-0268-4343-a702-74a538e027e4" />
 </details>
 <details>
     <summary>
        Map Preview: Displays a map's contents in its tooltip.
     </summary>
-    <img width="1920" height="1032" alt="Map Preview" src="https://github.com/user-attachments/assets/8b9f5082-cdde-4050-ad03-e93c35c226e3" />
+    <img alt="Map Preview" src="https://github.com/user-attachments/assets/8b9f5082-cdde-4050-ad03-e93c35c226e3" />
 </details>
 <details>
     <summary>
        Expanded Bundle Tooltip: Displays the entire contents of a bundle in its tooltip.
     </summary>
-    <img width="1920" height="1032" alt="Expanded Bundle Tooltip" src="https://github.com/user-attachments/assets/34555a7c-7b50-4516-af75-8f4cf75937fc" />
+    <img alt="Expanded Bundle Tooltip" src="https://github.com/user-attachments/assets/34555a7c-7b50-4516-af75-8f4cf75937fc" />
 </details>
 <details>
     <summary>
        Bundle Progress Bar Fraction: Displays a bundle's fullness as a fraction of 64 on top of its progress bar.
     </summary>
-    <img width="1920" height="1032" alt="Bundle Progress Bar Fraction" src="https://github.com/user-attachments/assets/8c079148-8e14-41e7-b797-872634678cfb" />
+    <img alt="Bundle Progress Bar Fraction" src="https://github.com/user-attachments/assets/8c079148-8e14-41e7-b797-872634678cfb" />
 </details>
 
 **Screen Effects:**
@@ -157,13 +157,13 @@ This mod adds new behaviors to Minecraft's inventory, HUD, containers, and scree
     <summary>
        Zoom: Drops the field of view to zoom into the center of the screen.
     </summary>
-    ![Zoom](https://github.com/user-attachments/assets/e82116f6-e257-4757-8aa4-e5590f444fdb)
+    <img alt="Zoom" src="https://github.com/user-attachments/assets/e82116f6-e257-4757-8aa4-e5590f444fdb" />
 </details>
 <details>
     <summary>
        Gamma: Increases the brightness past the maximum value.
     </summary>
-    ![Gamma](https://github.com/user-attachments/assets/071c2e8a-f00c-4f9d-8dd8-7a6ea808c8db)
+    <img alt="Gamma" src="https://github.com/user-attachments/assets/071c2e8a-f00c-4f9d-8dd8-7a6ea808c8db" />
 </details>
 
 **FAQs:**
