@@ -67,7 +67,7 @@ This mod adds new behaviors to Minecraft's inventory, HUD, containers, and scree
     <summary>
         Text Display: Displays a list of informational text strings.
     </summary>
-    <img alt="Text Display" src="https://placehold.co/600x400" />
+    <img alt="Text Display" src="https://github.com/user-attachments/assets/454bda28-7260-464b-a882-21f494c84644" />
 </details>
 <details>
     <summary>
