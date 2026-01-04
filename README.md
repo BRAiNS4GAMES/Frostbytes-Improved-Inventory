@@ -103,7 +103,7 @@ This mod adds new behaviors to Minecraft's inventory, HUD, containers, and scree
     <summary>
         Players' Waypoints Use Their Skins: Waypoints that point to a player use that player's head as the sprite.
     </summary>
-    <img alt="Players' Waypoints Use Their Skins" src="https://placehold.co/600x400" />
+    <img alt="Players' Waypoints Use Their Skins" src="https://github.com/user-attachments/assets/b8ddcc8d-18a2-476b-b780-4ab31f753515" />
 </details>
 
 **Tooltips:**
