@@ -61,7 +61,7 @@ This mod adds new behaviors to Minecraft's inventory, HUD, containers, and scree
     <summary>
         Bedrock Paperdoll: Displays the player model on the screen like in Bedrock Edition.
     </summary>
-    <img alt="Bedrock Paperdoll" src="https://placehold.co/600x400" />
+    <img alt="Bedrock Paperdoll" src="https://github.com/user-attachments/assets/47472128-89d8-4c3d-a23f-e3bc16b85168" />
 </details>
 <details>
     <summary>
